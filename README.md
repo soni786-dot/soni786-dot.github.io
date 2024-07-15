@@ -18,8 +18,11 @@
 - Closing their lecture, sir told us about the various activities by college to develop ourselves. The various committees and their memberships and **Types of Memberships**:-
 - 
 1.**Members**-Solely devoted to only one task
+  
 2.**Active members**-Actively participating in all sorts of activities despite only one task.
+
   3.**Executive members**-Hosting the task is their prime concern 
+  
 4. **Office bearer**-Excellent in all aspects
   
 - Then sir told us about **Student's Charter of Institution of Engineers (SCIE)**- It is a body responsible for governing engineering. It has 17 engineering disciples.
