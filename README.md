@@ -17,9 +17,11 @@
 - **The Concept of 1 minute Silence**- Everyone was asked to close their eyes and remain silent of 1 minute and after that they could open their eyes. There was a complete mismatch in the opening of eyes of all the individuals. All this was just because everyone used their share of 60 seconds according to themselves. Some wasted their seconds to open eyes quickly whereas some students completely utilised their time in keeping their eyes closed. This showed the concept of **Time Management** amongst people.
 - Closing their lecture, sir told us about the various activities by college to develop ourselves. The various committees and their memberships and **Types of Memberships**:-
 
+
       | MEMBERS  | ACTIVE MEMBERS | EXECUTIVE MEMBERS | OFFICE BEARER |
 | ----------- | ----------- | --- | --- | 
 | Solely devoted to only one task| Actively participating in all sorts of activities despite only one task  | Hosting the task is their prime concern | Excellent in all aspects |
+
 
 - Then sir told us about **Student's Charter of Institution of Engineers (SCIE)**- It is a body responsible for governing engineering. It has 17 engineering disciples.
 - It was created in 1969 in **GNDEC**. Membership fee- 536 rupees.
