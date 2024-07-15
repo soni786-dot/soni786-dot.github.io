@@ -23,7 +23,7 @@
 
   3.**Executive members**-Hosting the task is their prime concern 
   
-4. **Office bearer**-Excellent in all aspects
+4.**Office bearer**-Excellent in all aspects
   
 - Then sir told us about **Student's Charter of Institution of Engineers (SCIE)**- It is a body responsible for governing engineering. It has 17 engineering disciples.
 - It was created in 1969 in **GNDEC**. Membership fee- 536 rupees.
