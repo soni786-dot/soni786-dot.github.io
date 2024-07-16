@@ -33,5 +33,7 @@
 - **(ISHRAE), (ASME), (CSI), (PFA), Causmic Club, English Club, E-cell and IIC, ITIAN Club**
 - Upcoming Events- **Hack@GNE3.0, Ideathon, Creative Challenge, Solar vehicle Challenge**
 - 3P's pf Success;- **Passion**, **Persistance**, **Patience**. With this sir ended the lecture.
+---
+
   
 
