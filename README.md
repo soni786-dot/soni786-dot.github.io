@@ -37,7 +37,30 @@
 
 | DATE | RESOURCE PERSON | TOPIC |
 | ---- | --------------- | ----- |
-| 09-07-2024 | Dr. Parminder Singh | About Various College Facilities
+| 09-07-2024 | Dr. Parminder Singh | About Various College Facilities |
+
+## Sir told about the various facilities provided by the college for students as follows:-  
+
+- There are 4 hostels in the college campus ( 3 for **boys** and 1 for **girls** )
+- There is internet facility ( Wifi Enabled ) provided by the college of its own.
+- There are washing machines for the hostelers to do their laundry.
+- There are various activities organised for the hostelers.
+- There is a **Mess commitee** for maintaining the different menu, generate mess bill and ensuring proper food quality
+- There is a Library for the students having a total of 93453 books and seating arrangement for 300 people fully air conditioned. Online journals are also available there.
+- There are 3 computer labs in the campus with a total of 100 computers. There is a massive internet speed of upto 1Gbps in the labs.
+- There is an 8 lane 400m athletic track.
+- There are a total of 17 playgrounds for different facilities such as volleyball, cricket, table tennis, football etc.
+- There is regulation of activities of NSS ( National Service Scheme ) such as Tree plantation, Blood donation, Cleanliness drives etc.
+- There is an NCC (National Cadet Corps) company in the campus of itself having army wing and air wing.
+- There is Association of Civil Engineering Students (ACES).
+- There is Institution of Electrical and Telecommunication Engineering.
+- GNDEC Alumini scholarship.
+- UG scholarships.
+---
+
+   
+   
+
 
   
 
