@@ -58,6 +58,16 @@
 - UG scholarships.
 ---
 
+| DATE | RESOURCE PERSON | TOPIC |
+| ---- | --------------- | ----- |
+| 11-07-2024 | Dr. HS Rai | Guidelines for a successful career in web development |
+
+- Dr. HS Rai is the controller of examinations (COE) in GNDEC.
+- He told the students about a course called-**Google power searching with google**
+- This course helps the developers to search anything on any search engine efficiently and safe without wasting time in surfing over unnecessary tutorials or videos on the net.
+- He told the students about a new search engine called-**Duck Duck Go**
+- He said that this search engine engine keeps our data private and is the perfect example of **safe search**
+- He also stated that over 20% over the globe is produces by indians.
    
    
 
