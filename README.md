@@ -16,12 +16,12 @@
 - Our **Inner Voice** is the pushing force for us in doing any productive work and contribute towards the betterment of the society.
 - **The Concept of 1 minute Silence**- Everyone was asked to close their eyes and remain silent of 1 minute and after that they could open their eyes. There was a complete mismatch in the opening of eyes of all the individuals. All this was just because everyone used their share of 60 seconds according to themselves. Some wasted their seconds to open eyes quickly whereas some students completely utilised their time in keeping their eyes closed. This showed the concept of **Time Management** amongst people.
 - Closing their lecture, sir told us about the various activities by college to develop ourselves. The various committees and their memberships and **Types of Memberships**:-
-- 
+
 1.**Members**-Solely devoted to only one task
   
 2.**Active members**-Actively participating in all sorts of activities despite only one task.
 
-  3.**Executive members**-Hosting the task is their prime concern 
+3.**Executive members**-Hosting the task is their prime concern 
   
 4.**Office bearer**-Excellent in all aspects
   
