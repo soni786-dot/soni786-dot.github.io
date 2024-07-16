@@ -3,7 +3,7 @@
 
 | DATE | RESOURCE PERSON | TOPIC |
 | ----------- | ----------- | ----|
-| 11-07-2024| DR. ARVIND DHINGRA | Systematic Training And Education Programme (STEP) |
+| 11-07-2024| DR. Arvind Dhingra | Systematic Training And Education Programme (STEP) |
 
 ### Sir delivered their golden words by listing all the folowing ideals:- ###
 - The role of **DESTINY** in shaping one's life completely from an aimless life to a one with a good purpose and make ourselves realise that yes life is worth living.
@@ -34,7 +34,10 @@
 - Upcoming Events- **Hack@GNE3.0, Ideathon, Creative Challenge, Solar vehicle Challenge**
 - 3P's pf Success;- **Passion**, **Persistance**, **Patience**. With this sir ended the lecture.
 ---
-  
+
+| DATE | RESOURCE PERSON | TOPIC |
+| ---- | --------------- | ----- |
+| 09-07-2024 | Dr. Parminder Singh | About Various College Facilities
 
   
 
