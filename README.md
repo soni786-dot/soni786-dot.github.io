@@ -68,6 +68,18 @@
 - He told the students about a new search engine called-**Duck Duck Go**
 - He said that this search engine engine keeps our data private and is the perfect example of **safe search**
 - He also stated that over 20% over the globe is produces by indians.
+- He talked about the concept of **DRY** **( Do not Repeat Yourself)**
+- This is the fundamental rule of programming
+- It states that when are nebiwe in web development, you will make several mistakes but learning from that mistakes and not reapeating them is the key to a successfull developing career
+- Then sir told about his immense dedication and struggle which helped him in making him the project head of a team in a web development program held by **Google** in the **United States of America**
+- Ending his lecture, he told us about his telegram group **CodeGNE** which helps the eager developers to work on big projects as freshers which will help them in gaining skills for working with big companies in future 
+---
+
+| DATE | RESOURCE PERSON | TOPIC |
+| ---- | --------------- | ----- |
+| 12-07-2024 | Professor Nisha | Universal Human Values (UHV) |
+
+
    
    
 
