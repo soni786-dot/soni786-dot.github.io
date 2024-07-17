@@ -106,7 +106,28 @@
 | ---- | --------------- | ----- |
 | 12-07-2024 | Seniors of 2nd year | Microsoft Excel and ChatGPT |
 
-- 
+- ***Seniors told us about the following things of Microsoft Excel and chatGPT***
+- What is a cell?
+- A **cell** is basically a box from all the other boxes in which u can enter any data, give commands in the form of any mathematical operation or any other operation
+- Cell referencing and its types:- **Relative referencing, Absolute referencing and Mixed referencing**
+- How to add borders in a cell, customize them according to our needs and shortcut for adding border to a cell
+- How to make a table on excel worksheet using insert menu and from that selecting a table of the style and format as you want for a given set of data
+- Basic functions and formulas to perform on the given data such as the **datevalue function, sumif function, date function, sum function, power function, percentage** etc
+- How to sort data by selecting a column by left clicking and draging the mouse in the area to be selected. Then by right clicking and selecting sort will sort the data
+- We can sort data on the basis of **cell value, cell colour and much more**
+- How we can filter data by selecting it and right clicking on mouse and then selecting filter
+- We can filter on the basis of cell value, cell colour etc
+- The difference between **sorting** and **filtering** is sorting arranges the data according to specified order whereas filtering vanishes out data which remains after filtering the rest data
+- The use of if and else function
+- Use of mod, avg, min, median, count etc fucntions
+- Then they told us about what is the AI model of chatGPT and how does it work
+
+---
+
+| DATE | RESOURCE PERSON | TOPIC |
+| ---- | --------------- | ----- |
+| 15-07-2024 | Dr. Randhir singh | Github tutorial |
+
 
 
    
