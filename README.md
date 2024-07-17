@@ -128,6 +128,27 @@
 | ---- | --------------- | ----- |
 | 15-07-2024 | Dr. Randhir singh | Github tutorial |
 
+### ***Sir gave the full fledged tutorial of github in the following manner:-*** ###
+- Go to www.github.com
+- sign up by creating an account of urs using ur own gmail id
+- Then select a suitable username for ur account and a password u can remember easily
+- Now on home page select **create a repository** and then add ur username over there and create a url for your website
+- Remember to make url as the same as ur username and then write **.github.io** after it
+- Now add a readme file and select MIT license
+- Now press commit changes
+- After this, copy ur url and open it in new tab. This will be marked as the front end of your website
+- Now go to the previous github tab and click on the pencil sign on your readme file
+- Now using markdown language u can edit this readme file also called as back end and make everyday activity reports of induction programme
+
+ ---
+
+ | DATE | RESOURCE PERSON | TOPIC |
+ | ---- | --------------- | ----- |
+ | 15-07-2024 | Dr. Pyarelal Garg | Understanding Human Behaviour |
+
+
+
+
 
 
    
