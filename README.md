@@ -78,7 +78,31 @@
 
 | DATE | RESOURCE PERSON | TOPIC |
 | ---- | --------------- | ----- |
-| 12-07-2024 | Professor Nisha | Universal Human Values (UHV) |
+| 12-07-2024 | Professor Jasmine Kaur | Universal Human Values (UHV) |
+
+***In  her lecture, professor jasmine told us the following things:-***
+- What is our aspiration?
+- ***To remain happy*** is the aspiration of all
+- Everything we do or aspire to do is for our happiness
+- If our needs are fulfilled, we will be happy
+- Higher unemployment leads to **unhappiness**
+- Skill education is of no use without **value education**
+- The **value** of an entity is its participation in the larger order of which it is a part
+- Values should be **universal** and **rational**
+- Values are already innate in every human being, **you just have to take them out**
+- Your actions should be according to your **wishes**
+- You should make both your **self** and **body** happy only then you can make others happy
+- Values should be such that they lead to harmony
+- We should **Self Explore** ourselves. We should not react too quickly to someone's words, analyse yourself then react
+- Thought, behaviour, work and realization are parts of a human being
+- When everyone wants the same thing, it is known as **natural acceptance**
+- Our natural acceptance does not match with our **actions**
+- **Role of Education Sanskar-**Education means **to develop the right understanding** and Sanskar means **Commitment, preparation and 
+  practice** of living with the right understanding
+
+---
+
+|
 
 
    
