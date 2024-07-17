@@ -199,9 +199,50 @@
 
  ---
 
- 
+| DATE | RESOURCE PERSON | TOPIC |
+| ---- | --------------- | ----- |
+| 15-07-2024 | MR.Pancham | Ways of Communication |
 
+- It is being observed that Human beings communicate 7% by words
+- 55% by body movements, face, arms
+- 38% by voice tone, modulation, pauses
+- If someone's posture is cross legged while talking, then he/she is either lying, defensive or not opening to communication
+- If the feet are outward while communicating, then he/she is probably an extrovert
+- If someone's feet are towards you while talking, he is an introvert
+- Real smile is the one when eye cover folds upwards whereas in fake smile, no movement of eye covers is being observed
+- Then Mr. Pancham told us about his peronal achievemnts in the E-BAJA competition organised by SAE (Society Of Automotive Engineers)
+- He encouraged us in becoming a part of his team and get a chance to learn how an effective vehicle is designed for off road racings
+- He also told us about the various tracks of madhya pradesh where they tested their own vehicle
+- He then told us about the public exposure they got after winning in the E-BAJA
+- The feeling he and his team members felt after giving their invention to their parents for having a ride
 
+---
+
+| DATE | RESORCE PERSON | TOPIC|
+| ---- | -------------- | ---- |
+| 16-07-2024 | REEMA VERMA | DEPARTMENT VISIT (IT) |
+
+### ***During our department visit, our department teachers made us familiar with the following things in the department of Information Technology*** ###
+- Various labs in the department:- High Performance and Communication Labs (HPC), Project Labs (PL), Operating system labs (OS), Databse Management Systems lab (DBMS), Hardware Labs (HL) etc
+- Faculty offices, HOD offices, students section, clerk office
+- Various faculty names and their particular areas of practice
+- ITian club
+- General fitness marks (Participation in any club, sports, NCC or NSS)
+- Sachin Bagga sir for IT and placement
+- Co-conveners or seniors of ITian club help in placement
+- Secretary of ITian club- Harsh kapoor(3rd year)
+- HR-Harmanpreet
+- Event management head-Avyln
+- Database Head-Anu
+- Convener-Khushkaran
+- Discipline head-Ashish
+- Content writing head-Natasha
+- Technical head-Ankush
+- Co-convener-Abhishek
+- PRO-Dashyamjit
+- Then they made us know about the code of conduct
+- Events notices are available online without any need of notice boards now
+- At the end the major recruiters who come to GNDEC were listed down like:- Microsoft, amazon, google etc.
 
 
 
