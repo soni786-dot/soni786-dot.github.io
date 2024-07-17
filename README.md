@@ -102,7 +102,11 @@
 
 ---
 
-|
+| DATE | RESOURCE PERSON | TOPIC |
+| ---- | --------------- | ----- |
+| 12-07-2024 | Seniors of 2nd year | Microsoft Excel and ChatGPT |
+
+- 
 
 
    
