@@ -151,7 +151,28 @@
 - Everyone wants to be respected and appreciated
 - No one wants to let others underestimate his capabilities
 - It is our noble virtue to pass on the heritage in the form of knowledge to upcoming generations
-- 
+- Be punctual, Be confident
+- Face your fear and insecurities
+- Strengthen your inner power, you will automatically be able to face outer world powers
+- Taunts are part of life, facing them is in your hands
+- Successful is the one who does not miss opportunities and does not lose hope
+- React according to the person
+- Change in the state is the law of nature as when new bonds form, old bonds break
+- We should see the sadness in someone's happiness as the building of taj mahal was an event of happiness but the sacrifice of the labour behind it carried immense sorrow
+- See who is more underpriviledged than you
+- Don't cry over what happened, think of what can be done
+- Before complaining, research thoroughly
+- Handle confusing situations collectively helping each other
+- Wasting time in bullying or disrespecting someone or taking revenge hinders your personal growth
+- Implementing what you studies is important
+- Forget if or else, just focus on your journey
+- Always remember your promise of becoming successful which you made to yourself
+- Enlighten the path for upcoming generations
+---
+
+| DATE | RESOURCE PERSON | TOPIC |
+| ---- | --------------- | ----- |
+| 15-07-2024 | SONY GOYAL | 1 2 KA 4 |
 
 
 
