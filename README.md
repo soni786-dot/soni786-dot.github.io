@@ -142,9 +142,17 @@
 
  ---
 
- | DATE | RESOURCE PERSON | TOPIC |
- | ---- | --------------- | ----- |
- | 15-07-2024 | Dr. Pyarelal Garg | Understanding Human Behaviour |
+| DATE | RESOURCE PERSON | TOPIC |
+| ---- | --------------- | ----- |
+| 15-07-2024 | Dr. Pyarelal Garg | Understanding Human Behaviour | 
+
+### ***Sir stated following golden lines in their entire lecture span*** ###
+- Everything has changed in today's world except human behaviour
+- Everyone wants to be respected and appreciated
+- No one wants to let others underestimate his capabilities
+- It is our noble virtue to pass on the heritage in the form of knowledge to upcoming generations
+- 
+
 
 
 
