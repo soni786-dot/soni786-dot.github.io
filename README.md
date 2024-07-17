@@ -174,6 +174,33 @@
 | ---- | --------------- | ----- |
 | 15-07-2024 | SONY GOYAL | 1 2 KA 4 |
 
+### ***Sir is an excellent speaker from IIM Ahmedabad and guided us on our 4 years journey in his session as follows:-** ###
+- 1 Thing from 1 2 ka 4 was **Give your 100%**
+- Do one task at a time
+- Everyone has brain gifted from god but successful are those who do their tasks whole heartedly
+- The control of brain is in the hands of heart
+- Things to do in 4 years of life at GNDEC @BTech:-
+
+1. Learn
+2. Inquire
+3. Future
+4. Explore
+
+- Ask silly questions, see some part of the topic in discussion before coming to lecture
+- Triangle has high compatibility as it can be connected to many other triangles but it has low efficiency as ratios of surface area to perimeter is very low
+- While a hexagon has high compatibility as well as high efficiency
+- Do not mix passion with profession
+- It is not necessary to make your passion your profession
+- FAANG (Facebook, Amazon, Apple, Netflix, Google) was a startup in initial stages
+- India is an investment hub
+- Indian market is raw
+- Components of future are:- Scope, Evaluation and Awareness **(SEA)**
+- Following the above mentioned things, in the fourth year of your college, you will be able to explore and enjoy, Live properly, Maintain your hobby, Develop network.
+
+ ---
+
+ 
+
 
 
 
