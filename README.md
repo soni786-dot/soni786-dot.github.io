@@ -354,7 +354,15 @@
 | ---- | --------------- | ----- |
 | 18-07-2024 | Dr. Harvinder singh and Er. Jasvir Singh Grewal | NCC and NSS |
 
-
+- Firstly Dr. Harvinder Singh made us knew why we should opt foor NCC
+- He described about co-curricular and extra curricular activities
+- He listed down the physical as well as mental benefits of NCC
+- He listed down SAHARA scholarship and its benefits to NCC cadets
+- Many other govt. schemes and the cost bearing by govt. for any camp, uniform, drills etc. were also discussed briefly
+- He also confronted those students who did not qualify the NDA exam and said that NCC provides them a second chance to make their dream of becoming an officer in the indian armed 
+  forces a reality
+- He also explained all the life skills provided by World Health Organisation (WHO) like self awareness, maintaining relationships etc
+- He said that besides position in armed forces, NCC also provides these life skills   
 
 
 
