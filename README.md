@@ -295,8 +295,33 @@
  ![Guru_Nanak_Dev_Engineering_College,_LDH_20240718_193625_0000 1](https://github.com/user-attachments/assets/0474b756-7e85-4662-bbc3-c9bec2b52629) 
 
 
+### ***This is a flyer created by me for the causmic club of GNDEC Ludhiana with the guidence of our seniors*** ###
 
+---
 
+| DATE | RESOURCE PERSON | TOPIC |
+| ---- | --------------- | ----- |
+| 18-07-2024 | Pf. Dr. Harpal Singh Pannu | Sikh history |
+
+- Dr. Harpal Singh Pannu is an excellent reciter of numeruos short stories related to sikh history and his personal past
+- He has this unique talents of quoting the exact lines of any story or poem he read in his life till date
+- According to him books are like songs
+- He believes that hardwork is in our own hands
+- He says that their professor Narender Kalia in the time of their masters degree was a scholar in English and Urdu
+- He listed down various teachings of guru nanak dev ji and their relationship with bhai mardana ji
+- He narrated the incident when he got admitted to a school at the age of 7 and being uneducated from a very long time, he still topped in entire 14 villages in the annual examination
+- He said whenever he travelled by train or any other public transport, people get fascinated by his words of wisdom and they get so attached to him that they even beared his expenses
+- He talked about the udasiyas (trips for spreading religious values) of Guru nanak dev ji and its impact in the whole country
+- He talked about various incarnations of baba nanak and what inspiriation can we took from his life
+- He taught us the meaning of selflessness, purity, loyalty and honesty
+
+---
+
+| DATE | RESOURCE PERSON | TOPIC |
+| ---- | --------------- | ----- |
+| 18-07-2024 | Pf. Jasmine Kaur | Understanding Harmony in the Family |
+
+- 
 
 
 
