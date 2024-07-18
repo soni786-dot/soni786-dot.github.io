@@ -326,6 +326,15 @@
 - After home, we build (not acquire) relationships and feelings with friends, teachers etc.
 - To develop a good relationship, we need to know the meanings of feelings
 - **There are 9 types of feelings:-**
+1. Trust
+2. Respect
+3. Affection
+4. Care
+5. Guidance
+6. Reverence
+7. Glory
+8. Gratitude
+9. Love
 
 
 
