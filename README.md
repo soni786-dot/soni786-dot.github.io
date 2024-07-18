@@ -341,7 +341,17 @@
 - We want to keep ourself happy but if by chance we are unable, then we cannot keep other person happy as well. So trust issues arise
 - Disrespect can be measured as if a person is being buttered or he/she is underdescribed
 - Treating someone as animal is called otherwise evaluation and it is also a disrespect
-- If both the person's purpose is same, respect generates
+- If both the person's purpose or program is same, respect generates
+- Program is like understanding harmony
+- If we understand that both our potentials like desire, thought and expectation, respect comes
+- If we discriminate a person on the basis of age, physical attributes, physical strength, physical property etc. then we are disrespecting that person
+- We should understand that we are complementary to each other i.e respect is complementary
+- If we can correct someone's competence with our right understanding then the same can happen with us as well
+
+---
+
+| DATE | RESOURCE PERSON | TOPIC |
+| ----
 
 
 
