@@ -56,6 +56,7 @@
 - There is Institution of Electrical and Telecommunication Engineering.
 - GNDEC Alumini scholarship.
 - UG scholarships.
+
 ---
 
 | DATE | RESOURCE PERSON | TOPIC |
@@ -244,6 +245,29 @@
 - Events notices are available online without any need of notice boards now
 - At the end the major recruiters who come to GNDEC were listed down like:- Microsoft, amazon, google etc.
 
+---
+
+| DATE | RESOURCE PERSON | TOPIC|
+| ---- | --------------- | ---- |
+| 17-07-2024 | Pf. Jasmine Kaur | Human as a co-existence of self and body |
+
+### ***In her lecture, professor jasmine laid stress on the following things:-*** ###
+**The ultimate difference between body and self**
+- Body can be touched while self can only be felt
+- Self itself means soul
+- The needs of self are:- **respect**, **love**, **glory**, **reverence**, **gratitude** etc
+- These needs are required to be fulfilled for achieving happiness
+- Needs of self are continous while needs of body are discontinous
+- It is because for example wind is a bodily need and is required only during summers and monsoons. In winters its need is not appreciated at all while respect is the need of self 
+  which is demanded despite any age, colour, gender, status, weather or any other factor
+- Needs of self are qualitative while needs of body are quantitative
+- Needs of self are fulfilled by right understanding and right feeling while needs of body are fulfilled by physio-chemical things
+- Desires, thoughts and expectations are activities of self while walking, eating, sleeping etc are activities of body
+- Body activities are recognised by both us and our self and are thus fulfilled while activities of self are recognised by us and are thus fulfilled in 4 steps:-
+                    1. Knowing         2. Assuming         3. Recognizing          4. Fulfilling 
+- The only mistake of self is its assuming without knowing. If person is understood correctly, then assumptions are made right and hence fulfillment is done easily
+- Self is the domain of conscience while body is the domain of materialistic things
+- Desires, thoughts and expectations together make up our imagination
 
 
 
