@@ -351,7 +351,10 @@
 ---
 
 | DATE | RESOURCE PERSON | TOPIC |
-| ----
+| ---- | --------------- | ----- |
+| 18-07-2024 | Dr. Harvinder singh and Er. Jasvir Singh Grewal | NCC and NSS |
+
+
 
 
 
