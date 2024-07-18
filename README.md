@@ -362,7 +362,18 @@
 - He also confronted those students who did not qualify the NDA exam and said that NCC provides them a second chance to make their dream of becoming an officer in the indian armed 
   forces a reality
 - He also explained all the life skills provided by World Health Organisation (WHO) like self awareness, maintaining relationships etc
-- He said that besides position in armed forces, NCC also provides these life skills   
+- He said that besides position in armed forces, NCC also provides these life skills
+- Then Er. Jasvir Singh Grewal told us about the National Service Scheme (NSS)
+- NSS provides an opportunity to the students to become a better person in their life and save the environment which in turn saves thousand of lives
+- He talked about the true meaning of engineering
+- He talked abot the stem cells as a cure to blood cancer patients
+- He laid stress on qualitative plantation of tress rather than qualitative
+- He said that planting more and more tress help in improving the Air Quality Index (AQI)
+- He also urged everyone to practice Reduce, Reuse, Recycle
+- He mentioned how participating in NSS activities and getting certificates improves our portfolio for future resumes and cv's
+- At the end he introduced the concept of reverse engineering and applying it, named the auditorium as soil because everything in turn is a product originated from the soil
+
+---
 
 
 
