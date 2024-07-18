@@ -268,6 +268,39 @@
 - The only mistake of self is its assuming without knowing. If person is understood correctly, then assumptions are made right and hence fulfillment is done easily
 - Self is the domain of conscience while body is the domain of materialistic things
 - Desires, thoughts and expectations together make up our imagination
+- Preconditioning, Sensation and Natural acceptance affect our imagination
+
+---
+
+| DATE | RESOURCE PERSON | TOPIC |
+| ---- | --------------- | ----- |
+| 17-07-2024 | Seniors of 2nd year | Canva and its basics |
+
+### ***" Marking the importance and uses of Canva-an application used for creating reels, editing videos, making thumbnails and what not, they told the following things to us"*** ###
+- Why only canva?
+- It is because of canva's numerous features which are being listed below:-
+- **Availability**-It is readily available and easily usable on mobile phones
+- **Big Template Library**-It has hundreds and thousands of templates
+- **Drag and Drop Feature**-Various graphics, pictures and other elements are provided along the editing window
+- **Creating Animations**-U can edit your text in whatever animation you may like such as roll, burst and many more
+- **Colour pallete**-You can edit the colour of background of your poster and your text as well to any colour or gradient
+- **Font**-You can change the font style as well as the font size or line spacing of your text written on the poster or any flyer
+- **Magic Switch and Image Edit0ing**-Image gets edited by one click with the help of Artificial Intellegence(AI)
+- Photos can be resized according to any social media platform
+- The shape of words can also be decided
+- We  can also generate any QR code for any website of ours
+- No experience is required for canva, you can start as a newbie without any hesitation
+- You can make money by freelancing in graphic designing using canva
+   
+
+
+
+
+
+
+
+
+
 
 
 
