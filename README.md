@@ -336,6 +336,14 @@
 8. Gratitude
 9. Love
 
+- Trust builds when person has intent to make you prosperous and happy
+- You had intention to make someone happy but due to  circumstances you fail, then also there can be considered trust
+- We want to keep ourself happy but if by chance we are unable, then we cannot keep other person happy as well. So trust issues arise
+- Disrespect can be measured as if a person is being buttered or he/she is underdescribed
+- Treating someone as animal is called otherwise evaluation and it is also a disrespect
+- If both the person's purpose is same, respect generates
+
+
 
 
 
