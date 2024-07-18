@@ -292,7 +292,7 @@
 - No experience is required for canva, you can start as a newbie without any hesitation
 - You can make money by freelancing in graphic designing using canva
 
-  
+ ![Guru_Nanak_Dev_Engineering_College,_LDH_20240718_193625_0000 1](https://github.com/user-attachments/assets/0474b756-7e85-4662-bbc3-c9bec2b52629) 
 
 
 
