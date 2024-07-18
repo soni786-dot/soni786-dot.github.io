@@ -321,7 +321,11 @@
 | ---- | --------------- | ----- |
 | 18-07-2024 | Pf. Jasmine Kaur | Understanding Harmony in the Family |
 
-- 
+- From family onwards, we acquire relationships between one person and another
+- Relationship is a thing between one self and other self
+- After home, we build (not acquire) relationships and feelings with friends, teachers etc.
+- To develop a good relationship, we need to know the meanings of feelings
+- **There are 9 types of feelings:-**
 
 
 
