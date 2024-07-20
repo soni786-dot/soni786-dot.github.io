@@ -427,8 +427,7 @@
 | ---- | --------------- | ----- |
 | 19-07-2024 | Jaswinder singh | Wonders of Mathematics and science |
 
-### ***Dr. Jaswinder singh is the current incharge of the Indian Association of Physics Teachers (IAPT). He made us all amazed with his mesmerizing knowledge and experiments in the 
-following manner:-*** ###  
+### ***Dr. Jaswinder singh is the current incharge of the Indian Association of Physics Teachers (IAPT). He made us all amazed with his mesmerizing knowledge and experiments in the following manner:-*** ###  
 - He very firstly began with mathematics and gave us the triumph on tables by giving excellent tips and tricks for writing tables
 - He gave a code of 86420 for memorizing the table of 8 which was a thrill to experience live in his guidance
 - He made the clearance of exact number and location of the 206 bones present in various parts of the human skeleton by giving three numbers 26,27,28
