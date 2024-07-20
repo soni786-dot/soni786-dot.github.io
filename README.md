@@ -375,7 +375,23 @@
 
 ---
 
-![Screenshot_20240720_173057_Chrome](https://github.com/user-attachments/assets/b0221986-9ccc-4916-ae58-433ce7129759)
+![Screenshot_20240720_173057_Chrome](https://github.com/user-attachments/assets/b0221986-9ccc-4916-ae58-433ce7129759)   
+
+### ***This is my certificate of completion of the microsoft excel course by the Great Learning.In this course, i learnt various technical skills and operations in the form of answers to the questions as follows:-*** ###
+
+- How to **add** the data given in a column or row?
+- What is **absolute referrencing**, **relative refferencing** and **mixed referrencing**?
+- How to make date in the format of let's say 13 January 2024 from 2024-01-13?
+- How to **filter** and sort **data**?
+- How to trim the data?
+- How to **count** the values in a given row or column?
+- How to **concatenate** or **join** the data?
+- How to find the value of a particular cell in any row or column using the **VLOOKUP** and **HLOOKUP** functions?
+- How to give **borders** to a set of data or any single cell using the shortcut **ctrl+alt+7** or from **format cells** tab?
+- What are the uses of **if** and **else** functions?
+- What are the uses of **AND** or **OR** functions?
+- How to add **pivot tables** to a given set of data types?
+- How to add **Bar graphs**, **Pie charts**, **Line graphs** or **combination charts** etc.
 
 
 
