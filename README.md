@@ -393,6 +393,35 @@
 - How to add **pivot tables** to a given set of data types?
 - How to add **Bar graphs**, **Pie charts**, **Line graphs** or **combination charts** etc.
 
+---
+
+| DATE | RESOURCE PERSON | TOPIC |
+| ---- | --------------- | ----- |
+| 10-07-2024 | Er. Kanwardeep Kalra | Grooming from a student to an employee |
+
+### ***She helped us in making a road map for our transformation from a student to a corporate employee by listing out the following things:-*** ###
+- Asked us questions about new admissions, school life, dress for success etc.
+- Who is transitioning? What is the challenge?  When does this transition occurs? Where does this transition happen? Why transitioing is important? How we can overcome these 
+  challanges? These were some of the questions answered in her lecture
+- She told us about **workplace culture** and **dynamics**
+- The principle of **Learn, Unlearn and Relax**
+- It's all about the **C'S** i.e:- Compensation, Childhood, Campus, Corporate career etc.
+- At the end of the day, of all the c's only the compensation matters
+- MNC's only find 25% of Indian engineering and management graduates employable
+- Besides the technology aspect, competencies matter like skills, team building etc.
+- According to Deloittes research, soft skills should grow 2.5 times than the other skills
+- According to Harvard, well dveloped people have well developed soft skills
+- The problem is we are not able to fit in the culture'
+- We should bridge the gap, overcome the **C's**
+- Make yourself culturally fit and reliable
+- Your basic manners are your soft skills
+- Hard skills include:- Coding, DBMS, Language skills etc. These are shaped by technology and processed by industry
+- In only a span of 7 seconds, your impression gets made by the other person
+- You should know why you have chosen engineering
+- Learn Time Management, Resume writing, Interview giving, E-mail writing, Proffessional language, Body language, Presentation skills, The fundamentals of a formal appearance, Good 
+  behaviour and Good Communication skills
+
+---
 
 
 
