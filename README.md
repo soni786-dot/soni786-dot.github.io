@@ -423,6 +423,29 @@
 
 ---
 
+| DATE | RESOURCE PERSON | TOPIC |
+| ---- | --------------- | ----- |
+| 19-07-2024 | Jaswinder singh | Wonders of Mathematics and science |
+
+### ***Dr. Jaswinder singh is the current incharge of the Indian Association of Physics Teachers (IAPT). He made us all amazed with his mesmerizing knowledge and experiments in the 
+    following manner:-*** ###  
+- He very firstly began with mathematics and gave us the triumph on tables by giving excellent tips and tricks for writing tables
+- He gave a code of 86420 for memorizing the table of 8 which was a thrill to experience live in his guidance
+- He made the clearance of exact number and location of the 206 bones present in various parts of the human skeleton by giving three numbers 26,27,28
+- His viewpoint towards science and mathematics was very natural and soothing
+- He believed we all know smart tricks, we just have to observe and apply them in case of any problem
+- He explained the concept of conductance with a rain alarm very well
+- He also explained the law of balance in life using mathematics
+- He said that we all have encountered these experiments in our textbooks but never bothered to try them
+- Reading the written experiment does not explain the concepts very well
+- Trying these experiments practically gives the clearance to the concepts and makes way for any invention in the future
+- In a nutshell it can be inferred from sir's lecture that he is a visionary and an absolute enthusiast and has great love and passion towards science and mathematics as ***His words 
+  will do end but not his awards and achievements***
+
+----
+
+
+      
 
 
 
