@@ -443,6 +443,32 @@
 
 ----
 
+| DATE | RESOURCE PERSON | TOPIC |
+| ---- | --------------- | ----- |
+| 22-07-2024 |  Dr. S.B. Singh and Dr. Pushpinder Singh | Know Yourself and How to Learn Things From Nature | 
+
+### *** Firstly, Dr. S.B. Singh made us do the following task and gave their valuable piece of advice in the following manner:-*** ###
+- He made us take out pin pages from our notebooks and told us to write our name on it, Our parent's names, Their mobile numbers, Our mobile numbers and some of our academic details as well
+- Then he asked us questions regarding our hobbies, our aim in life, things we are doing to fulfill that aim, the flaws we find in the education system on GNDEC and what is our suggestion to resolve the issues 
+  if there are any
+- Then he told us that behind writing all this stuff his basic motive was to remind us of ourselves and our ambition in life
+- Then he told us about a poison which has been embedded into student's minds which is known as **package**
+- He told us that besides running for packages after your graduation, **Be your own package**
+- Inculcate such level of excellence and skills in yourself that you don't have to run for packages rather companies  approach you and ask for the package of your choice
+- He had his own way of enlightening us through his amazing life experience
+- He also criticised the use of google by people for every problem in their daily lives rather he said that we need to start trusting on people
+- He told us to read books like **The Igniited Minds** by Dr. APJ Abdul Kalam to make our lives at ease
+- He gave us the slogan of **No Tesnsion, Full Attention**
+### ***Then came Dr. Pushpinder Singh and gave us the following share of his knowledge*** ###
+- He firstly asked us question that said,"How many of you retain the lecture by only listening?", "How many of you retain the lecture by making notes?", "How many of you retain the lecture by relating the book 
+  knowledge to real life?"
+- His basic aim in asking these questions was that he wanted to know the studying pattern of students
+- Then he taught us the meaning of **surface learning** and **deep learning**
+- When we read a book only and just accept the facts provided in the lessons without checking them is known as surface learning
+- When we read a book and analyse the facts provided in any lesson by comparing them with real life things is known as deep learning
+- Another excellent way of learning things is by making them explain to your friend. This is the most efficient way of putting something u learnt into your sub conscious mind
+-  
+
 
       
 
