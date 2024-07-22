@@ -447,7 +447,7 @@
 | ---- | --------------- | ----- |
 | 22-07-2024 |  Dr. S.B. Singh and Dr. Pushpinder Singh | Know Yourself and How to Learn Things From Nature | 
 
-### *** Firstly, Dr. S.B. Singh made us do the following task and gave their valuable piece of advice in the following manner:-*** ###
+### *** Firstly, Dr. S.B. Singh made us do the following task and gave their valuable piece of advice in the following manner***:- ###
 - He made us take out pin pages from our notebooks and told us to write our name on it, Our parent's names, Their mobile numbers, Our mobile numbers and some of our academic details as well
 - Then he asked us questions regarding our hobbies, our aim in life, things we are doing to fulfill that aim, the flaws we find in the education system on GNDEC and what is our suggestion to resolve the issues 
   if there are any
@@ -466,8 +466,9 @@
 - Then he taught us the meaning of **surface learning** and **deep learning**
 - When we read a book only and just accept the facts provided in the lessons without checking them is known as surface learning
 - When we read a book and analyse the facts provided in any lesson by comparing them with real life things is known as deep learning
-- Another excellent way of learning things is by making them explain to your friend. This is the most efficient way of putting something u learnt into your sub conscious mind
--  
+- Another excellent way of learning things is by making them explain to your friend. This is the most efficient way of putting something u learnt into your subconscious mind
+- Mental health issues do arise in professional colleges
+- Learn everything because it helps in your life. Whatever you are made to study in the college's first year, do study it thoroughly because you don't know at which point in your life it would help you out
 
 
       
