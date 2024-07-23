@@ -37,7 +37,7 @@
 
 | DATE | RESOURCE PERSON | TOPIC |
 | ---- | --------------- | ----- |
-| 09-07-2024 | Dr. Parminder Singh | About Various College Facilities |
+| 11-07-2024 | Dr. Parminder Singh | About Various College Facilities |
 
 ## Sir told about the various facilities provided by the college for students as follows:-  
 
@@ -397,7 +397,7 @@
 
 | DATE | RESOURCE PERSON | TOPIC |
 | ---- | --------------- | ----- |
-| 10-07-2024 | Er. Kanwardeep Kalra | Grooming from a student to an employee |
+| 19-07-2024 | Er. Kanwardeep Kalra | Grooming from a student to an employee |
 
 ### ***She helped us in making a road map for our transformation from a student to a corporate employee by listing out the following things:-*** ###
 - Asked us questions about new admissions, school life, dress for success etc.
@@ -447,7 +447,7 @@
 | ---- | --------------- | ----- |
 | 22-07-2024 |  Dr. S.B. Singh and Dr. Pushpinder Singh | Know Yourself and How to Learn Things From Nature | 
 
-### *** Firstly, Dr. S.B. Singh made us do the following task and gave their valuable piece of advice in the following manner***:- ###
+### ***Firstly, Dr. S.B. Singh made us do the following task and gave their valuable piece of advice in the following manner***:- ###
 - He made us take out pin pages from our notebooks and told us to write our name on it, Our parent's names, Their mobile numbers, Our mobile numbers and some of our academic details as well
 - Then he asked us questions regarding our hobbies, our aim in life, things we are doing to fulfill that aim, the flaws we find in the education system on GNDEC and what is our suggestion to resolve the issues 
   if there are any
@@ -469,10 +469,45 @@
 - Another excellent way of learning things is by making them explain to your friend. This is the most efficient way of putting something u learnt into your subconscious mind
 - Mental health issues do arise in professional colleges
 - Learn everything because it helps in your life. Whatever you are made to study in the college's first year, do study it thoroughly because you don't know at which point in your life it would help you out
-- Then he gave us a tremendous example of living with gratitude by making us show a fact that the trees like bamboo whenever a storm comes bend themselves and survive the storm. While trees like peepal which don't bend themselves get blowed away in the storm. This showed that we should learn how to have a positive attitude to survive in storm like situations in life
+- Then he gave us a tremendous example of living with gratitude by making us show a fact that the trees like bamboo whenever a storm comes bend themselves and survive the storm. While trees like peepal which 
+  don't bend themselves get blowed away in the storm. This showed that we should learn how to have a positive attitude to survive in storm like situations in life
 
-      
+---
 
+| DATE | RESOURCE PERSON | TOPIC |
+| ---- | --------------- | ----- |
+| 23-07-2024 | Seniors of 2nd year | Peer Interaction about college |
+
+***The following knowledge was given to us by our senior:-***
+- Firstly, he told us about the study curriculum for our entire academic journey in the college
+- He guided us formaintaning a balance between studies and other skills in life
+- He insisted on the great deal of requirement of communication skills because they have a more prominent effect if we lack a little bit in studies
+- He told us about the internal exams, How to score well in MST's etc
+- He also told us that for getting good grades, smart work is required inspite of hard work
+- He also recited lines from verses and quotes for motivating us
+- He told us the entire process to apply for gate pass and bus pass
+- He enlightened us about various norms of the college and how to make a good profile for an ease in college life
+- He gave us example of himself that how he scored 7 out of 60 with the help of only 2 days study. It was due to his smart work of reading the core concepts which were important from exam point of view
+- He wanted us to have a great hold on English as it will help us in further upcoming placements and interviews
+- He told us that there are only 2 **STEP** (Science and Technology Park) in the whole of North India. One is in Thapar Institute of Engineering and Technology and the other one is in our college
+- He told us about the incharge of STEP in our college, i.e- Dr.Arvind Dhingra sir and the incharge of the Training and PLacements cell i.e- Professor G.S Sodhi
+- At last he told us to explore ourselves in the college and be free from any kind tension. He also told us his room number in hostel so students can take help from him if in any problem
+ 
+---
+
+| DATE | RESOURCE PERSON | TOPIC |
+| ----- | -------------- | ----- |
+| 23-07-2024 | Sukhbir Singh | Integration |
+
+### ***Sir being a mathematics teacher taught us the following things in mathematics and gave some precious advise as follows:-*** ###
+- Talk to your parents about what happened in college?, how was your day?, what did u do? besides just using phone and chatting on social media platforms
+- One of the biggest problem in maths we do is we do not practice it and just learn it which ultimately lead to bad scores in exams
+- Mathematics is the core of all the other subjects such as Physics, Chemistry etc
+- If a person is good at maths, automatically he will be able to get success in the other two subjects i.e Physics and Chemistry as well      
+- So we should understand the topics covered in class thoroughly and then practice questions related to the topic
+- Then he made us write practice problems of integration
+- These problems included subtopics such as:- Integration by partial fractions, Integration by parts, General integration, Taking roots of a polynomial and various other identities of interation
+- He also taught us a trick for integration a multifunctional question in integration which helped us save our time
 
 
 
