@@ -469,7 +469,7 @@
 - Another excellent way of learning things is by making them explain to your friend. This is the most efficient way of putting something u learnt into your subconscious mind
 - Mental health issues do arise in professional colleges
 - Learn everything because it helps in your life. Whatever you are made to study in the college's first year, do study it thoroughly because you don't know at which point in your life it would help you out
-
+- Then he gave us a tremendous example of living with gratitude by making us show a fact that the trees like bamboo whenever a storm comes bend themselves and survive the storm. While trees like peepal which don't bend themselves get blowed away in the storm. This showed that we should learn how to have a positive attitude to survive in storm like situations in life
 
       
 
