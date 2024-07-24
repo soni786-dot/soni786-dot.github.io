@@ -509,6 +509,31 @@
 - These problems included subtopics such as:- Integration by partial fractions, Integration by parts, General integration, Taking roots of a polynomial and various other identities of interation
 - He also taught us a trick for integration a multifunctional question in integration which helped us save our time
 
+---
+
+| DATE | RESORCE PERSON | TOPIC |
+| ---- | -------------- | ----- |
+| 24-07-2024 | Mr. Gauravdeep Singh | Make Change in Your Life |  
+
+### ***Mr. Gauravdeep Singh is the incharge of IOC ( Initiaters of Change ) organisation. He has won numerous awards and achievements in his life. He shared his personal experience and guided us in following ways:-*** ###
+- First of all, he told us all about his life story, how he emereged out from the pressure of a 40 lakhs loan with his core determination and strength
+- He talked about how he used to get good marks even he was not a bookworm
+- When he got into 11th standard he chose science. It was not something he expected. The journey was so difficult for him that he got barely 34% percent marks in his first examinations and then the result 
+  degraded even more after that
+- His first mentor told him the method of knowing yourself. It meant that we should look at ourselves and analyse what we are, what we are doing and what does we want
+- With this he realised that he is running in the wrong race and eventually he shifted from science to mass communication and got 96% marks in his first terminal exams
+- Then he went to S.D. college Chandigarh, and took admission there. He was going good with his path on mass media and communication but to his grief, His father ordered him to come home due to insufficient 
+  funds
+- When suddenly everything got lost again, he was mentored by someone who told him that whatevers happens is the will of god
+- Hearing this he started an organisation named, **Initiaters Of Change**.
+- He started growing trees in cleanliness drives, started helping the poor after which he got the greatest offer of his lifetime by the Election Commission Of India.
+- He was asked by the ECI to go in various parts of the country and spread awareness among citizens regarding votes
+- He was paid in lakhs after doing this job
+- Then he understood his work and started taking sessions in colleges which helped him gain popularity and money as well
+- In this way he told us to never give up , always try for all the possibilities and explore your skills by writing on paper about your capabilities    
+
+
+
 
 
 
